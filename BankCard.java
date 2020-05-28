@@ -1,6 +1,6 @@
 package designPatternAdapter;
 
-public class BankCard {
+public class BankCard  {
 	public String accountNumber;
 	
 	public BankCard(String accountNumber) {
